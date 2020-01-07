@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechanical Engineering, Birla Institute of Technology and Science, 2016
+* M.S. in Physics, Birla Institute of Technology and Science, 2016  
+* M.S. in Mechanical Engineering, Johns Hopkins University, 2019
+* Ph.D in Mechanical Engineering, Johns Hopkins University, 2020 (expected)
 
 Work experience
 ======
